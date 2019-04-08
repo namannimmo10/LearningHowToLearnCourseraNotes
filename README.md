@@ -36,7 +36,7 @@ Improving your learning
 Steps to form a chunk - (The Most important!!)
 > First you have to create mini chunks of information which you learn through practise and repetition and focused attention.
    
-	 This requires undivided attention because all of the slots of your working memory are used to hold the mini chunks.
+> This requires undivided attention because all of the slots of your working memory are used to hold the mini chunks.
 	 
 >Through the use of the focused mode coupled with bouts of diffuse mode thinking, you knit these mini chunks together into larger chunks which then form the chunk. Gradually less of your working memory is used by the information, until it is condensed down to 1 slot.
 
@@ -143,7 +143,7 @@ Procrastination-- (what is it?) well, all of us know :D by here are some tips to
 
    > Procrastination is especially important because to build solid neural chunks you need time and you cannot put it off until last minute.
    
-	 > Using willpower is one method people use to combat procrastination but willpower uses a lot of neural resources. You should avoid using it to fend off procrastination.
+   > Using willpower is one method people use to combat procrastination but willpower uses a lot of neural resources. You should avoid using it to fend off procrastination.
 
 
 Summary of week 2:
@@ -172,7 +172,7 @@ Summary of Week 3:(procrastination and memory)
 
          > You should realize that it’s perfectly normal to start a learning session with a negative feeling even if you like the subject. It’s how you handle those feelings that matters.
 
-         >  Solution: Focus on the process, not the product(If you do not like the process of doing something, the fuck it). The product is what triggers the pain that causes you to procrastinate. Instead of saying "I will solve this task today", put your best effort for a period of time continuously over the days.
+         >  Solution: Focus on the process, not the product(If you do not like the process of doing something, then fuck it). The product is what triggers the pain that causes you to procrastinate. Instead of saying "I will solve this task today", put your best effort for a period of time continuously over the days.
 
       
 			Memory Techniques:

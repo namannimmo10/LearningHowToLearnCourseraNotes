@@ -1,6 +1,5 @@
 "LEARNING HOW TO LEARN" on coursera- Notes 
        - BY Naman Nimmo Gera (namangera15@gmail.com)
-       - 12:39 pm, April 8, 2019.(any bugs would be really appreciated!)
 
 What is learning?
 

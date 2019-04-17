@@ -136,7 +136,7 @@ Picture walkthrough:
     > Teaching others can be an effective way to aid your own understanding.
 		
 		
-Procrastination-- (what is it?) well, all of us know :D by here are some tips to avoid it :)
+Procrastination-- (what is it?) well, all of us know :D but here are some tips to avoid it :)
 
    > When starting a task which we do not enjoy, the feeling of unease has a similar brain pattern to pain and so we swap to something more pleasant. This is called Procrastination.
 
